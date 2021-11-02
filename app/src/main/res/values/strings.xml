@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Nastepne</string>
+
+    <string name="q_activity">Activity jest jednym z komponentów aplikacji android</string>
+    <string name="q_version">Android 8 jest najnowszą wersją androida</string>
+    <string name="q_listener">Aplikacje dla systemu Android są sterowane zdarzeniowo</string>
+    <string name="correct_answer">Dobra odpowideź</string>
+    <string name="incorrect_answer">Zła odpowiedź</string>
+    <string name="answer_shown">Użyłeś podpowiedzi :(</string>
+</resources>
